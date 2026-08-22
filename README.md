@@ -1,15 +1,16 @@
-# Merhaba, ben Zehra
+# Hi, I'm Zehra
 
-Web, mobil ve masaüstü uygulamalar geliştiren; düzenli proje üreterek kendini geliştiren bir yazılım geliştiriciyim.
+I'm a software developer focused on building web, mobile and desktop applications.
+I improve my skills by creating small, practical projects regularly.
 
-## Hakkımda
+## About Me
 
-- Web arayüzleri, mobil uygulamalar ve masaüstü form uygulamaları geliştiriyorum.
-- Görev takip, hesaplama, kayıt ve yönetim uygulamaları üzerine küçük ama düzenli projeler yapıyorum.
-- Veritabanı tasarımı ve uygulama mantığı tarafında kendimi geliştiriyorum.
-- Öğrendiklerimi proje haline getirerek GitHub profilimde düzenli olarak arşivliyorum.
+- I build web interfaces, mobile apps and desktop form applications.
+- I enjoy developing task tracking, calculation, record management and productivity tools.
+- I am improving myself in database design and application logic.
+- I use GitHub to organize my learning process and project portfolio.
 
-## Kullandığım Teknolojiler
+## Technologies I Use
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,16 +23,16 @@ Web, mobil ve masaüstü uygulamalar geliştiren; düzenli proje üreterek kendi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Çalıştığım Alanlar
+## Areas I'm Working On
 
-- Frontend geliştirme
-- Flutter mobil uygulama geliştirme
-- C# Windows Forms uygulamaları
-- Veritabanı işlemleri
-- Günlük mini proje geliştirme
+- Frontend development
+- Flutter mobile development
+- C# Windows Forms applications
+- Database operations
+- Daily mini projects
 
-## Proje Vitrini
+## Project Portfolio
 
-Kaynak kodlarımın çoğu private olarak saklanıyor. Public alanda ise projelerimin isimlerini, amaçlarını ve açıklamalarını paylaşıyorum.
+Most of my source code is private. I share project names, descriptions and purposes publicly in my portfolio repository.
 
-[Projelerim reposunu incele](https://github.com/zehratavlioglu/projelerim)
+[View My Projects](https://github.com/zehratavlioglu/projelerim)

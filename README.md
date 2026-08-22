@@ -6,8 +6,8 @@
 
 - 🌱 I'm currently learning **Flutter, database design and application architecture**
 
-- 💻 I build projects with **JavaScript, Java, Flutter, C#, C++, MySQL and PostgreSQL**
-
+- 💻 I build projects with **HTML, CSS, JavaScript, Java, Flutter, C#, C++, MySQL and PostgreSQL**
+  
 - 📂 Most of my source code is private, but my project portfolio is available at [github.com/zehratavlioglu/projelerim](https://github.com/zehratavlioglu/projelerim)
 
 - 📫 How to reach me: **zehratavlioglu@gmail.com**
